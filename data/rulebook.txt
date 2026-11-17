@@ -1,0 +1,72 @@
+COMPLyCREW RULEBOOK
+Digital Personal Data Protection Framework - Prototype Rules
+
+RULE R001
+Topic: Notice and transparency
+Requirement:
+An organization should provide individuals with clear information about what personal data is being collected and the purpose for which it is being processed.
+Risk if missing:
+High
+
+RULE R002
+Topic: Consent
+Requirement:
+Where consent is the applicable basis for processing personal data, consent should be informed, specific, clear and capable of being withdrawn.
+Risk if missing:
+High
+
+RULE R003
+Topic: Purpose limitation
+Requirement:
+Personal data should be processed for a lawful and specified purpose and should not be used for unrelated purposes without an appropriate legal basis.
+Risk if missing:
+High
+
+RULE R004
+Topic: Data minimization
+Requirement:
+An organization should avoid collecting personal data that is unnecessary for the stated purpose.
+Risk if missing:
+Medium
+
+RULE R005
+Topic: Data security
+Requirement:
+Organizations should implement reasonable security safeguards to protect personal data against unauthorized access, use, alteration, disclosure or loss.
+Risk if missing:
+High
+
+RULE R006
+Topic: Data retention
+Requirement:
+Personal data should not be retained when it is no longer necessary for the purpose for which it was processed, subject to applicable legal requirements.
+Risk if missing:
+Medium
+
+RULE R007
+Topic: Data sharing
+Requirement:
+An organization should clearly address applicable conditions and purposes for sharing personal data with other organizations or third parties.
+Risk if missing:
+High
+
+RULE R008
+Topic: Individual rights
+Requirement:
+The organization should provide appropriate mechanisms for individuals to exercise applicable rights relating to their personal data.
+Risk if missing:
+Medium
+
+RULE R009
+Topic: Grievance handling
+Requirement:
+The organization should provide a mechanism through which individuals can raise complaints or grievances relating to personal data processing.
+Risk if missing:
+Medium
+
+RULE R010
+Topic: Children's data
+Requirement:
+Where personal data relates to children, the organization should apply the additional requirements and safeguards applicable to children's personal data.
+Risk if missing:
+High

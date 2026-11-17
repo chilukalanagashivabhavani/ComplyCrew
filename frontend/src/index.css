@@ -1,0 +1,118 @@
+/* ============================================================
+   COMPLYCREW - GLOBAL RESET
+   ============================================================ */
+
+:root {
+  font-family:
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    Roboto,
+    Helvetica,
+    Arial,
+    sans-serif;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* ============================================================
+   RESET
+   ============================================================ */
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* ============================================================
+   BODY
+   ============================================================ */
+
+body {
+  margin: 0;
+
+  min-width: 320px;
+  min-height: 100vh;
+
+  background: #f5f7fb;
+
+  color: #172033;
+}
+
+
+/* ============================================================
+   REMOVE DEFAULT LINK STYLING
+   ============================================================ */
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+/* ============================================================
+   BUTTON RESET
+   ============================================================ */
+
+button {
+  font-family: inherit;
+}
+
+
+/* ============================================================
+   INPUT RESET
+   ============================================================ */
+
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+
+
+/* ============================================================
+   SCROLLBAR
+   ============================================================ */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+
+/* ============================================================
+   TEXT SELECTION
+   ============================================================ */
+
+::selection {
+  background: #ddd6fe;
+  color: #312e81;
+}
